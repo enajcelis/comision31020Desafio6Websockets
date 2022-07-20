@@ -86,7 +86,7 @@ socket.on('log', data => {
 			<p>
 				<span style="color:blue"><strong>${log.user}</strong></span>
 				<span style="color:brown">[${log.date} ${log.time}]</span> : 
-				<span style="color:green">${log.message}</span>
+				<span style="color:green"><i>${log.message}</i></span>
 			</p>							
 		`;
 	});
