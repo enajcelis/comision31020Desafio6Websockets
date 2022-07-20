@@ -1,0 +1,16 @@
+[
+	{
+		"user": "jane.celis@gmail.com",
+		"message": "Hola",
+		"date": "20/07/2022",
+		"time": "12:08",
+		"id": 1
+	},
+	{
+		"user": "jane.celis2@gmail.com",
+		"message": "Buenas",
+		"date": "20/07/2022",
+		"time": "12:09",
+		"id": 2
+	}
+]
